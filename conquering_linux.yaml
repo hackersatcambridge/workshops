@@ -1,0 +1,28 @@
+title: Conquering Linux
+authors:
+  - Robin McCorkell
+presenters:
+  - Robin McCorkell
+thanks:
+  - to        : Tristram Newman
+    reason    : Video
+  - to        : University of Cambridge Computer Laboratory
+prerequisites:
+  - name      : VirtualBox # Have canonical name so auto-link to installation vid?
+    URI       : https://www.virtualbox.org/wiki/Downloads
+  - name      : Arch Linux ISO
+    URI       : https://www.archlinux.org/download/
+recommend:
+  - name      : Install Guide
+    URI       : https://wiki.archlinux.org/index.php/Installation_guide
+  - name      : Arch wiki
+    URI       : https://wiki.archlinux.org/
+  - name      : Keyboard Layouts
+    URI       : https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console
+links:
+  - https://www.youtube.com/watch?v=AqZWwsM3jaY
+tags: Linux
+description: >
+  A workshop on installing and configuring Arch Linux.
+
+  In this workshop you'll learn how to get a lightweight Arch system up and running, all from the safety of a VM so you're free to make mistakes! This will take you from loading up the ISO for the first time to booting into your newly-configured OS, and from there the system is your oyster.
