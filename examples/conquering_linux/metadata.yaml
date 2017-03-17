@@ -1,0 +1,19 @@
+title: Conquering Linux
+authors:
+  - Robin McCorkell
+presenters:
+  - Robin McCorkell
+thanks:
+  - to        : Tristram Newman
+    reason    : Video
+  - to        : University of Cambridge Computer Laboratory
+recommend:
+  - name      : Install Guide
+    URI       : https://wiki.archlinux.org/index.php/Installation_guide
+  - name      : Arch wiki
+    URI       : https://wiki.archlinux.org/
+  - name      : Keyboard Layouts
+    URI       : https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console
+links:
+  - https://www.youtube.com/watch?v=AqZWwsM3jaY
+tags: Linux
