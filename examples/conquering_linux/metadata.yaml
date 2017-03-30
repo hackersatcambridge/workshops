@@ -16,4 +16,5 @@ recommend:
     url       : https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console
 links:
   - https://www.youtube.com/watch?v=AqZWwsM3jaY
-tags: Linux
+tags:
+  - Linux
