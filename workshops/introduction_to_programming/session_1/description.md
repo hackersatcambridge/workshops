@@ -1,6 +1,6 @@
 Introduction to Programming for Beginners
 ===
-## Wat
+## What is it?
 Hackers at Cambridge are happy to present Introduction to Programming for Beginners! 
 
 If you've ever wondered what programming is about, heard your friends are coding and want to get into the game or are simply just looking for a chance to learn something new, this is your chance. 
@@ -12,6 +12,8 @@ After these two sessions, you will have a good understanding of the basic concep
 
 You'll see how you can build a simple 'to-do' application, make a tiny snake game and ultimately understand what's going on behind the scenes of those mystical computers! 
 
+## Feedback
+Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](goo.gl/ogARhQ)
 
 # Session 1
 ## Relevant Links
