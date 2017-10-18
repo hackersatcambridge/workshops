@@ -24,6 +24,7 @@ You'll see how you can build a simple 'to-do' application, make a tiny snake gam
 [Khan Academy - Functions](https://www.khanacademy.org/computing/computer-programming/pjs-documentation)
 
 My favorite collection of helpful links for any programmer, of any level!
+
 [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-practice-for-beginners)
 
 [Programming Languages to learn in 2017](https://usersnap.com/blog/programming-languages-2017/)
