@@ -13,7 +13,7 @@ After these two sessions, you will have a good understanding of the basic concep
 You'll see how you can build a simple 'to-do' application, make a tiny snake game and ultimately understand what's going on behind the scenes of those mystical computers! 
 
 ## Feedback
-Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](goo.gl/ogARhQ)
+Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/ogARhQ)
 
 # Session 1
 ## Relevant Links
