@@ -13,7 +13,7 @@ After these two sessions, you will have a good understanding of the basic concep
 You'll see how you can build a simple 'to-do' application, make a tiny snake game and ultimately understand what's going on behind the scenes of those mystical computers! 
 
 ## Feedback
-Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/ogARhQ)
+Thanks for coming to this session! Please help us to improve this series by ~filling out the feedback form~ (Session 1 feedback is now closed)
 
 # Session 1
 ## Relevant Links
@@ -59,6 +59,10 @@ My favorite collection of helpful links for any programmer, of any level!
 
 [Math](https://developer.mozilla.org/ro/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
+## Feedback
+Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/616oL2)
+
+---
 
 ## Extra, fun links to get you enthusiastic
 ### General coding
