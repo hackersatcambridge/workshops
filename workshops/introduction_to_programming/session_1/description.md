@@ -13,7 +13,9 @@ After these two sessions, you will have a good understanding of the basic concep
 You'll see how you can build a simple 'to-do' application, make a tiny snake game and ultimately understand what's going on behind the scenes of those mystical computers! 
 
 ## Feedback
-Thanks for coming to this session! Please help us to improve this series by ~filling out the feedback form~ (Session 1 feedback is now closed)
+Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/616oL2)
+
+---
 
 # Session 1
 ## Relevant Links
@@ -38,6 +40,8 @@ My favorite collection of helpful links for any programmer, of any level!
 
 [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
 
+---
+
 # Session 2 
 ## Relevant Links
 [Slide-deck](https://docs.google.com/presentation/d/18V0uwAo75aF__q3bXJjqIyoaTEbWHMZGU5hipXScP9k/edit?usp=sharing)
@@ -59,11 +63,6 @@ My favorite collection of helpful links for any programmer, of any level!
 
 [Math](https://developer.mozilla.org/ro/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
-## Feedback
-Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/616oL2)
-
----
-
 ## Extra, fun links to get you enthusiastic
 ### General coding
 [Developer Community’s 9 Tips for Coding Beginners](https://www.codementor.io/learn-programming/tips-on-becoming-a-software-engineer)
@@ -78,3 +77,5 @@ Thanks for coming to this session! Please help us to improve this series by [fil
 [Exercises checking different patterns -- **Regular Expressions**](https://www.w3resource.com/javascript-exercises/javascript-regexp-exercises.php) -- eg: you want to check is something looks like an e-mail address or if something looks like a credit card number
 
 [Underscore](http://underscorejs.org/) -- A popular library in JavaScript for more functionality
+
+
