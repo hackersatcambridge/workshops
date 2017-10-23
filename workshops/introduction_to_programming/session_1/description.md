@@ -38,3 +38,39 @@ My favorite collection of helpful links for any programmer, of any level!
 
 [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
 
+# Session 2 
+## Relevant Links
+[Slide-deck](https://docs.google.com/presentation/d/18V0uwAo75aF__q3bXJjqIyoaTEbWHMZGU5hipXScP9k/edit?usp=sharing)
+
+[Coditionals Playground](https://repl.it/Mzws/21)
+
+[Looping Playground](https://repl.it/NDc7/26)
+
+[Objects Playground](https://repl.it/NDa4/14)
+
+
+## Relevant libraries 
+
+[Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
+
+[Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+[Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+[Math](https://developer.mozilla.org/ro/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
+
+## Extra, fun links to get you enthusiastic
+### General coding
+[Developer Community’s 9 Tips for Coding Beginners](https://www.codementor.io/learn-programming/tips-on-becoming-a-software-engineer)
+
+[A list of projects you can try your hand at](https://github.com/karan/Projects/)
+
+### JavaScript Related
+[More about OBJECTS](https://javascript.info/object)
+
+[Eloquent JavaScript](http://eloquentjavascript.net/index.html) -- One of the most acclaimed books for learning JavaScript
+
+[Exercises checking different patterns -- **Regular Expressions**](https://www.w3resource.com/javascript-exercises/javascript-regexp-exercises.php) -- eg: you want to check is something looks like an e-mail address or if something looks like a credit card number
+
+[Underscore](http://underscorejs.org/) -- A popular library in JavaScript for more functionality
