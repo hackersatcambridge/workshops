@@ -46,7 +46,7 @@ My favorite collection of helpful links for any programmer, of any level!
 
 [Looping Playground](https://repl.it/NDc7/26)
 
-[Objects Playground](https://repl.it/NDa4/14)
+[Objects Playground](https://repl.it/NDa4/27)
 
 
 ## Relevant libraries 
