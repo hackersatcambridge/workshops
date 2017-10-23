@@ -13,7 +13,7 @@ After these two sessions, you will have a good understanding of the basic concep
 You'll see how you can build a simple 'to-do' application, make a tiny snake game and ultimately understand what's going on behind the scenes of those mystical computers! 
 
 ## Feedback
-Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/616oL2)
+Thanks for coming to this session! Please help us to improve this series by [filling out the feedback form](https://goo.gl/DzF2gB)
 
 ---
 
@@ -77,5 +77,3 @@ My favorite collection of helpful links for any programmer, of any level!
 [Exercises checking different patterns -- **Regular Expressions**](https://www.w3resource.com/javascript-exercises/javascript-regexp-exercises.php) -- eg: you want to check is something looks like an e-mail address or if something looks like a credit card number
 
 [Underscore](http://underscorejs.org/) -- A popular library in JavaScript for more functionality
-
-
