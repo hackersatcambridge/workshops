@@ -292,3 +292,9 @@ What is covered here is exceptionally brief, please look here for some of the to
 - [What is Bash shell scripting?](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
 - [Introduction to Package Managers](https://www.linode.com/docs/tools-reference/linux-package-management)
+
+- [What are Linux permissions?](https://ryanstutorials.net/linuxtutorial/permissions.php)
+
+- [What is the standard input and the standard output?](http://www.linfo.org/stdio.html)
+
+-
