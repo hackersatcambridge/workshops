@@ -1,0 +1,30 @@
+title: "Tools For Programmers 01: Intro to Bash"
+location: Computer Rooms, Judge Business Business School
+contributors:
+  - Robin McCorkell
+  - Tom Read Cutting
+further_reading_links:
+  - name: OverTheWire. A great way to practice Bash skills
+    url: http://overthewire.org/wargames/bandit/
+  - name: What is Bash shell scripting?
+    url: https://en.wikibooks.org/wiki/Bash_Shell_Scripting
+  - name: Introduction to Package Managers
+    url: https://www.linode.com/docs/tools-reference/linux-package-management
+  - name: What are Linux permissions?
+    url: https://ryanstutorials.net/linuxtutorial/permissions.php
+  - name: What is the standard input and the standard output?
+    url: http://www.linfo.org/stdio.html
+tags:
+  - beginner
+  - bash
+  - tools
+
+# A license identifier from https://spdx.org/licenses/
+license: CC-BY-3.0
+
+# Permalink to (at least some subset of) the actual workshop content
+content_link: https://github.com/hackersatcambridge/intro_to_bash
+
+# The first year this work was published
+copyright_year: 2017
+copyright_holders: Robin McCorkell, Tom Read Cutting
