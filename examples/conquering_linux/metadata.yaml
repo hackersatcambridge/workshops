@@ -1,23 +1,8 @@
 title: Conquering Linux
-date: 2016-10-10
-time: 13:00:00
-location: William Gates Building, FW26
-authors:
+contributors:
   - Robin McCorkell
-presenters:
-  - Robin McCorkell
-thanks:
-  - to        : Tristram Newman
-    reason    : Video
-  - to        : University of Cambridge Computer Laboratory
-recommend:
-  - name      : Install Guide
-    url       : https://wiki.archlinux.org/index.php/Installation_guide
-  - name      : Arch wiki
-    url       : https://wiki.archlinux.org/
-  - name      : Keyboard Layouts
-    url       : https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console
+content_link: https://github.com/hackersatcambridge/arch-linux-workshop
 links:
   - https://www.youtube.com/watch?v=AqZWwsM3jaY
 tags:
-  - Linux
+  - linux
