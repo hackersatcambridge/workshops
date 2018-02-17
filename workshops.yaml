@@ -1,10 +1,10 @@
 workshops:
-  - https://github.com/hackersatcambridge/workshop-example
-  - https://github.com/hackersatcambridge/workshop-archlinux
-  - https://github.com/hackersatcambridge/workshop-continuous-integration
-  - https://github.com/hackersatcambridge/workshop-intro-to-git
-  - https://github.com/hackersatcambridge/workshop-intro-to-swift
-  - https://github.com/hackersatcambridge/workshop-emacs
-  - https://github.com/hackersatcambridge/workshop-open-source
-  - https://github.com/hackersatcambridge/workshop-python-ml
-  - https://github.com/hackersatcambridge/workshop-intro-to-git-refactor-test
+  - example
+  - archlinux
+  - continuous-integration
+  - intro-to-git
+  - intro-to-swift
+  - emacs
+  - open-source
+  - python-ml
+  - intro-to-git-refactor-test
