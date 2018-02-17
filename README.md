@@ -1,5 +1,5 @@
 # Hackers at Cambridge Workshops Index
-This repository serves as an index of all workshops that the Hackers at Cambridge community have run.
+This repository serves as an index of [all workshops](https://hackersatcambridge.com/workshops) that the Hackers at Cambridge community have run. Go to [our website](https://hackersatcambridge.com/workshops) to view all of the workshops listed here!
 
 To add a new workshop:
 
